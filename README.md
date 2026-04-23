@@ -28,6 +28,7 @@ $ varun --status
   IDE:      VSCode 1.111.0
   OpenTo:   Internships & OSS Contributions
   Loc:      Chennai, TN 🇮🇳
+```
 
 ---
 
