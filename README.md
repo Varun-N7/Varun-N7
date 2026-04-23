@@ -2,7 +2,7 @@
 ### Computer Science Student | AI & ML Focus | SRM Institute of Science and Technology 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varun-N7&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Varun-N7&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&v=1" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-N7&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" height="180" />
 </p>
 
