@@ -1,5 +1,5 @@
 # 👨‍💻 Varun N
-### Computer Science Junior | AI & ML Focus | SRM Institute of Science and Technology 
+### Computer Science Student | AI & ML Focus | SRM Institute of Science and Technology 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Varun-N7&show_icons=true&theme=tokyonight&count_private=true" height="180" />
@@ -12,7 +12,7 @@
 | **Category** | **Tech & Tools** |
 | :--- | :--- |
 | **🚀 Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
-| **🤖 AI / ML** | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
+| **🤖 AI / ML** | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black) |
 | **🛠️ Environment** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
@@ -33,5 +33,5 @@ $ varun --status
 ---
 
 ### 🔗 Connect With Me
-[LinkedIn](https://linkedin.com/in/varun444) • 
-[Discord](https://discord.com/users/835204033374715942)
+[LinkedIn](www.linkedin.com/in/varun444) • 
+[Discord](www.discord.com/users/835204033374715942)
