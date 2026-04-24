@@ -33,5 +33,5 @@ $ varun --status
 ---
 
 ### 🔗 Connect With Me
-[LinkedIn]
-[Discord]
+- [LinkedIn](https://www.linkedin.com/in/varun444)
+- [Discord](https://discord.com/users/835204033374715942)
