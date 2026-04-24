@@ -1,9 +1,9 @@
 # 👨‍💻 Varun N
-### Computer Science Student | AI & ML Focus | SRM Institute of Science and Technology 
+### Computer Science Student | AI & ML Focus | SRM Institute of Science and Technology
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varun-N7&show_icons=true&theme=tokyonight&hide=contribs&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-N7&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Varun-N7&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=60" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-N7&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=60" height="180" />
 </p>
 
 ---
@@ -20,15 +20,14 @@
 ### 🧬 System Info
 ```bash
 $ varun --status
-  
-  OS:       Ubuntu 24 / Android 13
-  Uptime:   22 Years, 6 Months
-  Host:     SRM Institute of Science and Technology
-  Kernel:   CS Junior (AI & ML Focus)
-  IDE:      VSCode 1.111.0
-  OpenTo:   Internships & OSS Contributions
-  Loc:      Chennai, TN 🇮🇳
-```
+
+OS:       Ubuntu 24 / Android 13
+Uptime:   22 Years, 6 Months
+Host:     SRM Institute of Science and Technology
+Kernel:   CS Junior (AI & ML Focus)
+IDE:      VSCode
+OpenTo:   Internships & OSS Contributions
+Loc:      Chennai, TN 🇮🇳
 
 ---
 
