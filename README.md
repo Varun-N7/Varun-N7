@@ -22,7 +22,7 @@
 $ varun --status
   
   OS:       Ubuntu 24 / Android 13
-  Uptime:   22 Years, 6 Months
+  Uptime:   22 Years, 7 Months
   Host:     SRM Institute of Science and Technology
   Kernel:   CS Junior (AI & ML Focus)
   IDE:      VSCode 1.111.0
@@ -35,3 +35,4 @@ $ varun --status
 ### 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/varun444)
 - [Discord](https://discord.com/users/835204033374715942)
+
